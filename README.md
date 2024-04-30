@@ -1,14 +1,9 @@
-# Astro Tailwind Flowbite Template
+# Astro Tailwind Flowbite 
 
-This is a website template that uses the latest version of Astro along with Tailwind and Flowbite UI components to create a static website for various smaller projects. I'm hoping to use this as a foundation for small projects in the future, like building friends' or small businesses' fast and simple static sites.
-
-Walk through video:
-
-[![IMAGE_ALT](https://img.youtube.com/vi/FBFbW2TNRL8/0.jpg)](https://www.youtube.com/watch?v=FBFbW2TNRL8)
+Site use Astro Tailwind and Flowbite. A CMS will be added at a later date.
 
 This uses all the great features of Astro like View Transitions API support, automatic asset optimization, better build output, and more.
 
-This is a work in progress, so please feel free to send me a pull request for any improvements you make. Look at the contributing section below for more information.
 
 ## Getting Started
 
@@ -66,13 +61,11 @@ Colors for primary, secondary, and accent are set in the `tailwind.config.cjs` f
 
 The easiest way to deploy a site like this is by using a service like Vercel, Cloudflare, or Netlify. Simply set up a free account on one of them, authorize your GitHub account, and grant access to all or selected repositories. From there, it should be as simple as setting up a new project in the dashboard; these services should handle the rest.
 
-## Contributing
 
-If you'd like to contribute to this project, please feel free to send me a pull request. I'm always looking for ways to improve this template. If it's for a bug fix, please create an issue first so we can discuss it, the same with a feature add. This will give me more understanding when reviewing the PR. I want to keep this project neat and fast, so please make sure to follow the guidelines below.
 
 ## Guidelines
 
-- Please use the [Prettier](https://prettier.io/) code formatter to keep the code clean and consistent.
+
 - Please use [Tailwind](https://tailwindcss.com/) classes for styling.
 - Please use [Astro](https://astro.build/) components for HTML.
 - Please use [Flowbite UI](https://flowbite.com/) components for HTML.
